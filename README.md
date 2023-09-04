@@ -18,7 +18,7 @@ Daily total of all US public debt outstanding sourced from https://fiscaldata.tr
 
 Daily public debt outstanding plotted over time with Presidential administrations plotted on secondary axis.  Annotations for start and end debt totals added. 
 
-[[https://gmhfx.github.io/US-Public-Debt/)https://gmhfx.github.io/US-Public-Debt/]]
+https://gmhfx.github.io/US-Public-Debt/)https://gmhfx.github.io/US-Public-Debt/
 
 ### Contact
 
