@@ -12,7 +12,7 @@ Chart plotting US Public Debt over the last 30 years.
 
 ## Data
 
-Total of all US public debt outstanding sourced from https://fiscaldata.treasury.gov/](https://fred.stlouisfed.org/.
+Total of all US public debt outstanding sourced from https://fred.stlouisfed.org/.
 
 
 ## Chart Description
