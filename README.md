@@ -6,17 +6,18 @@ Chart plotting US Public Debt over the last 30 years.
 
 * Python 3.11
 * Pandas
-* Requests
+* Numpy
+* FredAPI
 * Plotly Graph Objects
 
 ## Data
 
-Daily total of all US public debt outstanding sourced from https://fiscaldata.treasury.gov/.
+Total of all US public debt outstanding sourced from https://fiscaldata.treasury.gov/](https://fred.stlouisfed.org/.
 
 
 ## Chart Description
 
-Daily public debt outstanding plotted over time with Presidential administrations plotted on secondary axis.  Annotations for start and end debt totals added. 
+Daily public debt outstanding plotted over time with Presidential administrations plotted on secondary axis. 
 
 https://gmhfx.github.io/US-Public-Debt/
 
